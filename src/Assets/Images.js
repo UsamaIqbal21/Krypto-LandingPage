@@ -3,6 +3,7 @@ import img2 from "../Assets/Images/img2.png"
 import img3 from "../Assets/Images/img3.png"
 import qoute from "../Assets/Images/qoute.png"
 import trade from "../Assets/Images/trade.png"
+import google from "../Assets/Images/google.png"
 import bitcoin from "../Assets/Images/bitcoin.png"
 import USAflag from "../Assets/Images/USAflag.png"
 import youtube from "../Assets/Images/youtube.png"
@@ -16,6 +17,7 @@ import feature5 from "../Assets/Images/feature5.png"
 import feature6 from "../Assets/Images/feature6.png"
 import linkedin from "../Assets/Images/linkedin.png"
 import Bitcoin1 from "../Assets/Images/Bitcoin-1.png"
+import playstore from "../Assets/Images/playstore.png"
 import arrowdown from "../Assets/Images/arrowdown.png"
 import analysis1 from "../Assets/Images/analysis1.png"
 import analysis2 from "../Assets/Images/analysis2.png"
@@ -33,13 +35,13 @@ import testimonial2 from "../Assets/Images/testimonial2.png"
 import testimonial3 from "../Assets/Images/testimonial3.png"
 import chainlink006 from "../Assets/Images/006-chainlink1.png"
 
-
 const Images={
     img1,
     img2,
     img3,
     qoute,
     trade,
+    google,
     bitcoin,
     USAflag,
     youtube,
@@ -53,6 +55,7 @@ const Images={
     feature6,
     linkedin,
     Bitcoin1,
+    playstore,
     arrowdown,
     analysis1,
     analysis2,
