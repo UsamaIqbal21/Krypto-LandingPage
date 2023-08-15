@@ -27,8 +27,8 @@ const Navbar = () => {
   return (
     <nav
       className={`bg-transparent ${
-       isScrolled
-          ?  "fixed top-0 left-0 right-0 bg-white shadow-xl pb-2 md:pb-5 z-10"
+        isScrolled
+          ? "fixed top-0 left-0 right-0 bg-white shadow-xl pb-2 md:pb-5 z-10"
           : ""
       }`}
     >
@@ -48,40 +48,40 @@ const Navbar = () => {
                 <a
                   href="#Howitworks"
                   className={`${
-                    isScrolled
-                       ? "text-[#160E33]":"text-white "} font-rubik text-base font-normal leading-normal uppercase`}
+                    isScrolled ? "text-[#160E33]" : "text-white "
+                  } font-rubik text-base font-normal leading-normal uppercase`}
                 >
                   How it works
                 </a>
                 <a
                   href="#Cryptos"
                   className={`${
-                    isScrolled
-                       ? "text-[#160E33]":"text-white "} font-rubik text-base font-normal leading-normal uppercase`}
+                    isScrolled ? "text-[#160E33]" : "text-white "
+                  } font-rubik text-base font-normal leading-normal uppercase`}
                 >
                   Cryptos
                 </a>
                 <a
                   href="#Features"
                   className={`${
-                    isScrolled
-                       ? "text-[#160E33]":"text-white "} font-rubik text-base font-normal leading-normal uppercase`}
+                    isScrolled ? "text-[#160E33]" : "text-white "
+                  } font-rubik text-base font-normal leading-normal uppercase`}
                 >
                   Features
                 </a>
                 <a
                   href="#Testimonial"
                   className={`${
-                    isScrolled
-                       ? "text-[#160E33]":"text-white "} font-rubik text-base font-normal leading-normal uppercase`}
+                    isScrolled ? "text-[#160E33]" : "text-white "
+                  } font-rubik text-base font-normal leading-normal uppercase`}
                 >
                   Testimonial
                 </a>
                 <a
                   href="#University"
                   className={`${
-                    isScrolled
-                       ? "text-[#160E33]":"text-white "} font-rubik text-base font-normal leading-normal uppercase`}
+                    isScrolled ? "text-[#160E33]" : "text-white "
+                  } font-rubik text-base font-normal leading-normal uppercase`}
                 >
                   University
                 </a>

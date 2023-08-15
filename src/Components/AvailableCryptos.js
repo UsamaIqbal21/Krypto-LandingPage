@@ -8,7 +8,7 @@ import { Keyboard, Pagination, Navigation } from "swiper/modules";
 import { AvailableCryptosData } from "../Data/AvailableCryptosData";
 function AvailableCryptos() {
   return (
-    <section>
+    <section id="Cryptos">
       <div className="py-20">
         <div className="container mx-auto px-4">
           <div className="flex flex-col items-center justify-center gap-y-2 relative">

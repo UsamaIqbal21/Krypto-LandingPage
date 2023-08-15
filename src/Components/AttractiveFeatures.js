@@ -3,7 +3,7 @@ import Images from "../Assets/Images"
 import {AttractiveFeaturesData} from "../Data/AttractiveFeaturesData";
 function AttractiveFeatures() {
   return (
-   <section>
+   <section id='Features'>
      <div className='py-24'>
        <div className='container mx-auto px-4'>
        <div className="flex flex-col items-center justify-center gap-y-2 relative">

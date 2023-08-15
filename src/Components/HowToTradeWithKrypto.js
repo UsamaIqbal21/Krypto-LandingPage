@@ -3,7 +3,7 @@ import Images from "../Assets/Images";
 function HowToTradeWithKrypto() {
   return (
     <>
-      <section>
+      <section id="Howitworks">
         <div className="py-20 md:pt-12 lg:pt-16 xl:pt-20 2xl:pt-24">
           <div className="container mx-auto px-4">
             <div className="flex flex-col items-center justify-center gap-y-2 relative">
