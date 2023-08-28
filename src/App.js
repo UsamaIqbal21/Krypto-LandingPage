@@ -83,7 +83,7 @@ function App() {
     40 * 1000;
   return (
     <>
-      <section className=" bg-[#160E33] ">
+      <section id="home" className=" bg-[#160E33] ">
         <Navbar />
         <div
           className="bg-center bg-cover mt-10 relative"

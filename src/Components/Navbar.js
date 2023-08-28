@@ -93,7 +93,12 @@ const Navbar = () => {
                   <img src={Images.USAflag} alt="" width={18} height={18} />
                 </div>
                 <div>
-                  <img src={Images.arrowdown} alt="" width={18} height={18} />
+                  <img
+                    src={isScrolled ? Images.arrowdownblue : Images.arrowdown}
+                    width={isScrolled ? 14 : 18}
+                    height={isScrolled ? 14 : 18}
+                    alt=""
+                  />
                 </div>
               </div>
             </div>

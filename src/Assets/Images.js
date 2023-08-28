@@ -34,7 +34,7 @@ import testimonial1 from "../Assets/Images/testimonial1.png"
 import testimonial2 from "../Assets/Images/testimonial2.png"
 import testimonial3 from "../Assets/Images/testimonial3.png"
 import chainlink006 from "../Assets/Images/006-chainlink1.png"
-
+import arrowdownblue from "../Assets/Images/arrowdownblue.png"
 const Images={
     img1,
     img2,
@@ -71,6 +71,7 @@ const Images={
     testimonial1,
     testimonial2,
     testimonial3,
-    chainlink006
+    chainlink006,
+    arrowdownblue
 };
 export default Images;
